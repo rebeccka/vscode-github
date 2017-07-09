@@ -1,1 +1,1 @@
-# vscode-github-
+关于如何再vs code中使用github步骤详解
